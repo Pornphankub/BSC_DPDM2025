@@ -47,3 +47,18 @@ Data Preprocessing สำหรับงาน Data Mining ครอบคลุ
 
 เอกสาร >> [บทที่ 3](03Preprocessing)
 
+## 📍 Chapter 6 Mining Frequent Patterns, Association and Correlations: Basic Concepts and Methods
+
+เอกสาร >> [บทที่ 6](06FPBasic.pdf)
+
+## 📍 Chapter 8 Classification: Basic Concepts
+
+เอกสาร >> [บทที่ 8](08.pdf)
+
+## 📍 Chapter 9 Classification: Advanced Methods
+
+เอกสาร >> [บทที่ 9](09ClassAdvanced (1).pdf)
+
+## 📍 Chapter 10 Cluster Analysis: Basic Concepts and Methods
+
+เอกสาร >> [บทที่ 10](10ClusBasic.pdf)
