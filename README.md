@@ -62,3 +62,7 @@ Data Preprocessing สำหรับงาน Data Mining ครอบคลุ
 ## 📍 Chapter 10 Cluster Analysis: Basic Concepts and Methods
 
 เอกสาร >> [บทที่ 10](10ClusBasic.pdf)
+
+## 📍 อ่านเพิ่มเติม
+
+เอกสาร >> [AI](AIบุญเสริม.pdf)
