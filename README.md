@@ -53,7 +53,7 @@ Data Preprocessing สำหรับงาน Data Mining ครอบคลุ
 
 ## 📍 Chapter 8 Classification: Basic Concepts
 
-เอกสาร >> [บทที่ 8](08.pdf)
+เอกสาร >> [บทที่ 8](08ClassBasic.pdf)
 
 ## 📍 Chapter 9 Classification: Advanced Methods
 
