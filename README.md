@@ -57,7 +57,7 @@ Data Preprocessing สำหรับงาน Data Mining ครอบคลุ
 
 ## 📍 Chapter 9 Classification: Advanced Methods
 
-เอกสาร >> [บทที่ 9](09ClassAdvanced (1).pdf)
+เอกสาร >> [บทที่ 9](09ClassAdvanced.pdf)
 
 ## 📍 Chapter 10 Cluster Analysis: Basic Concepts and Methods
 
